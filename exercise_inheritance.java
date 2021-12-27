@@ -1,6 +1,6 @@
 
 
-public class exercise {
+public class exercise_inheritance {
     public static void main(String[] args) {
         
         
